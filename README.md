@@ -1,7 +1,7 @@
 # Valaccount-oto-sender
 
 Bu bot Atillanoxy tarafından hazırlanıp lisanslanmıştır lisansaltı kullanımı yasaktır. 
-1- Öncelikle bilgisayarınıza kodu indirin [Burdan indiriniz.](https://codeload.github.com/atillanoxy/valaccount-oto-sender/zip/refs/heads/main)
+>1- Öncelikle bilgisayarınıza kodu indirin [Burdan indiriniz.](https://codeload.github.com/atillanoxy/valaccount-oto-sender/zip/refs/heads/main)
 2- Kodu winrar veya benzeri bir programla rar'dan çıkartınız
 3- Setup.bat dosyasını Çalıştırınız (Node.js'i kurar ardındından modülleri yükler)
 4- Start.bat dosyasını çalıştırınız

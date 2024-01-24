@@ -40,8 +40,8 @@ async function sorKey() {
 }
 
 async function bekletVeIslemSec() {
-  console.log('Ana Menü'.green);
-  console.log('1- Botu Başlat'.yellow);
+  console.log('Ana Menü'.magenta);
+  console.log('1- Botu Başlat'.green);
   console.log('2- Ayarlar'.yellow);
   console.log('3- Çıkış'.red);
 

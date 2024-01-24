@@ -1,0 +1,38 @@
+{
+  "token": "NTYxNDczODM0MDAwMTg3NDEz.GqOrWl.F_h6oF2qxJDBBnyOTvfIXacnlr6eFshFvDZUHU",
+  "webhook": "https://discord.com/api/webhooks/1199324356816421005/XbbWwEkY5_Afxsb6F0tnzSg-d8XJvE2pzaCoHnbemQYA3uMoWQDWv36o_otI4lvVTv6_",
+  "değişkenler": [
+    {
+      "isim": "wamboost",
+      "sunucuId": "1190600735151366164",
+      "kanalId": "1195076710333427802",
+      "time": "600000",
+      "message": "!gen valorant",
+      "botId": "1195696093741191190"
+    },
+    {
+      "isim": "wamfree",
+      "sunucuId": "1190600735151366164",
+      "kanalId": "1195076681996705852",
+      "time": "300000",
+      "message": "!gen valorant",
+      "botId": "1184562441791733811"
+    },
+    {
+      "isim": "soulfree",
+      "sunucuId": "1158778503932694579",
+      "kanalId": "1183730919589281802",
+      "time": "300000",
+      "message": "!gen valorant",
+      "botId": "1118862180629086338"
+    },
+    {
+      "isim": "xalorant",
+      "sunucuId": "1197583364115398837",
+      "kanalId": "1199048368706572400",
+      "time": "120000",
+      "message": ".gen free",
+      "botId": "1197587550169219244"
+    }
+  ]
+}
